@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá 👋
 
+### Eu sou Pedro :mask: , estudante de Ciência da Computação.
+
+Atualmente estou fazendo alguns cursos para melhorar o meu **inglês** e estudando **JavaScript** para entrar de uma vez por todas nesse mundo Front-End. :book:
+
+Tenho conhecimento em algumas linguagens como:
+
+- C, Java, HTML, CSS, SQL e um pouco do JavaScript.
+
+&nbsp;
+
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/estanho)](https://github.com/estanho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohrosag/)](https://www.linkedin.com/in/pedrohrosag/)
+
+> Tenho um ""*site*"", mas estou trabalhando nele ainda. - [Website](https://estanho.github.io/) :sweat_smile:
 <!--
-**estanho/estanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=LINK)](LINK)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=LINK)](LINK)
 -->
