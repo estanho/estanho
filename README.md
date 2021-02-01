@@ -2,7 +2,7 @@
 
 ### Eu sou Pedro :mask: , estudante de Ciência da Computação.
 
-Atualmente estou fazendo alguns cursos para melhorar o meu **inglês** e estudando **JavaScript** para entrar de uma vez por todas nesse mundo Front-End. :book:
+Atualmente estou fazendo alguns cursos para melhorar o meu **JavaScript** e estudando **inglês**. :book:
 
 Tenho conhecimento em algumas linguagens como:
 
