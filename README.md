@@ -6,11 +6,11 @@ Atualmente estou fazendo alguns cursos para melhorar o meu **JavaScript** e estu
 
 Tenho conhecimento em algumas linguagens como:
 
-- C, Java, HTML, CSS, SQL e um pouco do JavaScript.
+- C, Java, HTML, CSS, PL/SQL e um pouco do JavaScript.
 
 &nbsp;
 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/estanho)](https://github.com/estanho)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/estanho)](https://github.com/estanho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohrosag/)](https://www.linkedin.com/in/pedrohrosag/)
 
 <!--
