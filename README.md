@@ -1,8 +1,4 @@
-# Olá 👋
-
-### Eu sou Pedro :mask: , estudante de Ciência da Computação.
-
-##
+## Olá 👋 Eu sou Pedro :mask: , estudante de Ciência da Computação.
 
 <div>
   <a href="https://github.com/rafaballerini">
