@@ -2,13 +2,7 @@
 
 ### Eu sou Pedro :mask: , estudante de Ciência da Computação.
 
-Atualmente estou fazendo alguns cursos para melhorar o meu **JavaScript** e estudando **inglês**. :book:
-
-Tenho conhecimento em algumas linguagens como:
-
-- C, Java, HTML, CSS, PL/SQL e um pouco do JavaScript.
-
-&nbsp;
+##
 
 <div>
   <a href="https://github.com/rafaballerini">
@@ -23,10 +17,6 @@ Tenho conhecimento em algumas linguagens como:
   <img alt="estanho-html5" src="https://img.shields.io/badge/HTML5-43853D?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="estanho-css3" src="https://img.shields.io/badge/CSS3-43853D?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="estanho-windows" src="https://img.shields.io/badge/Windows-43853D?style=for-the-badge&logo=windows&logoColor=white">
-  
-  
-	
-  
   <img align="right" alt="estanho-deku" src="https://cdn.discordapp.com/attachments/551507327652462602/884178526100660254/oie_52248571Weesjn0.gif">
 </div>
   
@@ -34,9 +24,9 @@ Tenho conhecimento em algumas linguagens como:
  
 <div> 
   <!--
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+	<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   -->
  	<a href="https://www.twitch.tv/estanhoeu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedroh.rosag@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
