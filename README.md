@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Pedro :mask: , estudante de Ciência da Computação.
+## Olá 👋:mask:
 
 <div>
   <a href="https://github.com/rafaballerini">
