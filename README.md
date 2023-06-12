@@ -1,5 +1,6 @@
 ## Olá 👋:mask:
 
+As vezes pode parecer meio parado aqui... mas é que estou trabalhando em respositórios privados 👀
 <div>
   <a href="https://github.com/estanho">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=estanho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
