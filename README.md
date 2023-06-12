@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/estanho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estanho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estanho&layout=compact&langs_count=7&theme=merko"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img alt="estanho-js" src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white">
