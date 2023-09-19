@@ -13,7 +13,6 @@ As vezes pode parecer meio parado aqui... mas é que estou trabalhando em respos
   <img alt="estanho-java" src="https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=white">
   <img alt="estanho-html5" src="https://img.shields.io/badge/HTML5-43853D?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="estanho-css3" src="https://img.shields.io/badge/CSS3-43853D?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="estanho-windows" src="https://img.shields.io/badge/Windows-43853D?style=for-the-badge&logo=windows&logoColor=white">
   <img align="right" alt="estanho-deku" src="https://cdn.discordapp.com/attachments/551507327652462602/884178526100660254/oie_52248571Weesjn0.gif">
 </div>
   
