@@ -1,5 +1,6 @@
-## Olá 👋:mask:
+## Olá 👋
 
+Sou formado em Ciência da Computação e estou atualmente estudando Next e TS.
 As vezes pode parecer meio parado aqui... mas é que estou trabalhando em respositórios privados 👀
 <div>
   <a href="https://github.com/estanho">
