@@ -1,6 +1,5 @@
 # Olá, meu nome é Pedro 👋
 
----
 <div style="display: flex;">
   <p style="text-align: justify; padding-right: 2em">
     Sou formado em <strong>Ciência da Computação</strong> e estou atualmente estudando e revisando algumas tecnologias como <strong>Node/TypeScript</strong> para conseguir minha primeira oportunidade como desenvolvedor.
