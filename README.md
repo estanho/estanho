@@ -2,7 +2,7 @@
 
 Sou formado em <strong>Ciência da Computação</strong> e estou atualmente estudando e revisando algumas tecnologias como <strong>Node/TypeScript</strong> para conseguir minha primeira oportunidade como desenvolvedor.
 <br><br>
-As vezes meu perfil pode parecer meio parado... mas é que estou trabalhando em respositórios privados 👀
+**Estou trabalhando no meu portifólio no momento. Link: [pedrohrg.vercel.app](https://pedrohrg.vercel.app)** :computer:
 
   <!-- <img  alt="estanho-deku" src="https://media.tenor.com/3-erk7P4OcoAAAAM/izuku-midoriya-my-hero-academia.gif"> -->
 
